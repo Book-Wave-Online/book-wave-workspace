@@ -20,7 +20,7 @@
             <mxPoint x="245" y="590" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UbM-DHjGWb1cBcI7hBhp-5" parent="1" style="html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="&lt;b&gt;BFF&lt;/b&gt;&lt;br&gt;(Node.js)" vertex="1">
+        <mxCell id="UbM-DHjGWb1cBcI7hBhp-5" parent="1" style="html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="&lt;b&gt;BFF&lt;/b&gt;&lt;br&gt;(Node.js)" vertex="1">
           <mxGeometry height="50" width="110" x="370" y="40" as="geometry" />
         </mxCell>
         <mxCell id="UbM-DHjGWb1cBcI7hBhp-6" edge="1" parent="1" source="UbM-DHjGWb1cBcI7hBhp-13" style="endArrow=none;dashed=1;html=1;startArrow=none;" target="UbM-DHjGWb1cBcI7hBhp-5" value="">
@@ -50,7 +50,7 @@
         <mxCell id="UbM-DHjGWb1cBcI7hBhp-12" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="" vertex="1">
           <mxGeometry height="340" width="10" x="240" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="UbM-DHjGWb1cBcI7hBhp-13" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="" vertex="1">
+        <mxCell id="UbM-DHjGWb1cBcI7hBhp-13" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="" vertex="1">
           <mxGeometry height="310" width="10" x="420" y="140" as="geometry" />
         </mxCell>
         <mxCell id="UbM-DHjGWb1cBcI7hBhp-14" parent="1" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="" vertex="1">
